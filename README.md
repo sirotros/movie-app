@@ -1,6 +1,6 @@
 # Movie Website
 
-Movie website where you can see the details of the most rated movies and popular movies using MovieDb api.
+Movie website where you can see the details of the most rated movies and popular movies using MovieDb api. You can use it in Turkish and English with multiple language options.
 
 ## Build with
 - React
@@ -8,6 +8,7 @@ Movie website where you can see the details of the most rated movies and popular
 - React-router-dom
 - React Icons
 - Tailwindcss
+- React-intl (For Language)
 
 
 ## How to run this projects
